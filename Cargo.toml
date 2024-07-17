@@ -1,5 +1,3 @@
 [workspace]
-members = [
-    "skeleton"
-]
+members = []
 resolver = "2"
