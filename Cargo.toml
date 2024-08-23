@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "skeleton"
+]
+resolver = "2"
